@@ -1,7 +1,5 @@
 # 🌌 Hello, I’m Gemmy  
-
-> *“One foot in Python, the other in wonder.”*  
-> Learning by doing. Building by feeling.
+I'm Gemmy Nguyen in the data world, Elara G. when dreaming in code, and Darea Rem when I write under moonlight and melody.
 
 ---
 ### 🧬 Who I Am
