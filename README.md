@@ -1,5 +1,5 @@
 # 🌌 Hello, I’m Gemmy  
-I'm Gemmy Nguyen in the data world and Darea Rem when I write under moonlight and melody.
+I'm Gemmy Nguyen in the data world and Darea Rem when I write under moonlight.
 
 ---
 ### 🧬 Who I Am
